@@ -1,0 +1,5963 @@
+[
+  {
+    "id": "animals",
+    "title": "The animal garden",
+    "place": "The garden",
+    "description": "Explore the kitchen garden, orchard and field edge. Eleven animal friends are painted into their surroundings.",
+    "kind": "garden",
+    "items": [
+      {
+        "latin": "cuniculus",
+        "english": "rabbit",
+        "asset": "assets/I574-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I574",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/cuniculus_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the source contour drawing",
+        "x": 27,
+        "y": 70,
+        "w": 28,
+        "h": 32,
+        "outline": [
+          [
+            [
+              14,
+              55
+            ],
+            [
+              18,
+              56
+            ],
+            [
+              22,
+              61
+            ],
+            [
+              27,
+              66
+            ],
+            [
+              24,
+              65
+            ],
+            [
+              29,
+              62
+            ],
+            [
+              32,
+              61
+            ],
+            [
+              30,
+              65
+            ],
+            [
+              25,
+              69
+            ],
+            [
+              28,
+              72
+            ],
+            [
+              31,
+              71
+            ],
+            [
+              35,
+              73
+            ],
+            [
+              37,
+              75
+            ],
+            [
+              38,
+              78
+            ],
+            [
+              40,
+              74
+            ],
+            [
+              40,
+              80
+            ],
+            [
+              38,
+              83
+            ],
+            [
+              34,
+              85
+            ],
+            [
+              29,
+              84
+            ],
+            [
+              23,
+              85
+            ],
+            [
+              22,
+              83
+            ],
+            [
+              23,
+              79
+            ],
+            [
+              21,
+              76
+            ],
+            [
+              19,
+              74
+            ],
+            [
+              18,
+              70
+            ],
+            [
+              19,
+              67
+            ],
+            [
+              19,
+              63
+            ]
+          ]
+        ],
+        "scene": 0
+      },
+      {
+        "latin": "echinus",
+        "english": "hedgehog",
+        "asset": "assets/I575-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I575",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/echinus_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the source contour drawing",
+        "x": 76,
+        "y": 75,
+        "w": 29,
+        "h": 25,
+        "outline": [
+          [
+            [
+              65,
+              77
+            ],
+            [
+              67,
+              73
+            ],
+            [
+              69,
+              69
+            ],
+            [
+              68,
+              65
+            ],
+            [
+              72,
+              68
+            ],
+            [
+              74,
+              63
+            ],
+            [
+              76,
+              66
+            ],
+            [
+              79,
+              62
+            ],
+            [
+              81,
+              66
+            ],
+            [
+              85,
+              63
+            ],
+            [
+              85,
+              67
+            ],
+            [
+              90,
+              67
+            ],
+            [
+              88,
+              72
+            ],
+            [
+              92,
+              74
+            ],
+            [
+              89,
+              78
+            ],
+            [
+              91,
+              82
+            ],
+            [
+              87,
+              83
+            ],
+            [
+              86,
+              87
+            ],
+            [
+              83,
+              87
+            ],
+            [
+              81,
+              84
+            ],
+            [
+              77,
+              86
+            ],
+            [
+              75,
+              88
+            ],
+            [
+              73,
+              87
+            ],
+            [
+              74,
+              85
+            ],
+            [
+              72,
+              86
+            ],
+            [
+              71,
+              85
+            ],
+            [
+              68,
+              85
+            ],
+            [
+              67,
+              84
+            ],
+            [
+              68,
+              83
+            ],
+            [
+              64,
+              83
+            ],
+            [
+              64,
+              81
+            ]
+          ]
+        ],
+        "scene": 0
+      },
+      {
+        "latin": "gallina",
+        "english": "hen",
+        "asset": "assets/I576-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I576",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/gallina_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the source contour drawing",
+        "x": 35,
+        "y": 44,
+        "w": 21,
+        "h": 31,
+        "outline": [
+          [
+            [
+              30,
+              31
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              33,
+              36
+            ],
+            [
+              36,
+              38
+            ],
+            [
+              38,
+              42
+            ],
+            [
+              39,
+              46
+            ],
+            [
+              42,
+              46
+            ],
+            [
+              43,
+              48
+            ],
+            [
+              45,
+              48
+            ],
+            [
+              45,
+              52
+            ],
+            [
+              44,
+              55
+            ],
+            [
+              43,
+              55
+            ],
+            [
+              43,
+              59
+            ],
+            [
+              42,
+              56
+            ],
+            [
+              39,
+              57
+            ],
+            [
+              38,
+              55
+            ],
+            [
+              37,
+              55
+            ],
+            [
+              38,
+              58
+            ],
+            [
+              39,
+              59
+            ],
+            [
+              37,
+              59
+            ],
+            [
+              37,
+              58
+            ],
+            [
+              34,
+              56
+            ],
+            [
+              31,
+              56
+            ],
+            [
+              31,
+              58
+            ],
+            [
+              32,
+              59
+            ],
+            [
+              30,
+              58
+            ],
+            [
+              29,
+              59
+            ],
+            [
+              28,
+              58
+            ],
+            [
+              29,
+              56
+            ],
+            [
+              28,
+              53
+            ],
+            [
+              26,
+              52
+            ],
+            [
+              27,
+              48
+            ],
+            [
+              26,
+              47
+            ],
+            [
+              27,
+              43
+            ],
+            [
+              28,
+              41
+            ],
+            [
+              27,
+              39
+            ],
+            [
+              28,
+              37
+            ],
+            [
+              28,
+              34
+            ]
+          ]
+        ],
+        "scene": 0
+      },
+      {
+        "latin": "feles",
+        "english": "cat",
+        "asset": "assets/vibrissa-book.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I578",
+        "imageSource": "Minimus Secundus, Introduction (uploaded book)",
+        "x": 24,
+        "y": 28,
+        "w": 18,
+        "h": 13,
+        "outline": [
+          [
+            [
+              16,
+              23
+            ],
+            [
+              17,
+              26
+            ],
+            [
+              19,
+              25
+            ],
+            [
+              23,
+              23
+            ],
+            [
+              27,
+              23
+            ],
+            [
+              30,
+              25
+            ],
+            [
+              32,
+              28
+            ],
+            [
+              32,
+              31
+            ],
+            [
+              30,
+              34
+            ],
+            [
+              26,
+              35
+            ],
+            [
+              22,
+              34
+            ],
+            [
+              20,
+              33
+            ],
+            [
+              18,
+              34
+            ],
+            [
+              16,
+              33
+            ],
+            [
+              15,
+              31
+            ],
+            [
+              16,
+              28
+            ]
+          ]
+        ],
+        "scene": 1
+      },
+      {
+        "latin": "porcus",
+        "english": "pig",
+        "asset": "assets/I579-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I579",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/porcus_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the original site contour; natural colours",
+        "x": 76,
+        "y": 69,
+        "w": 37,
+        "h": 35,
+        "outline": [
+          [
+            [
+              58,
+              58
+            ],
+            [
+              59,
+              56
+            ],
+            [
+              61,
+              55
+            ],
+            [
+              64,
+              57
+            ],
+            [
+              69,
+              56
+            ],
+            [
+              71,
+              53
+            ],
+            [
+              73,
+              54
+            ],
+            [
+              74,
+              55
+            ],
+            [
+              72,
+              58
+            ],
+            [
+              77,
+              56
+            ],
+            [
+              83,
+              56
+            ],
+            [
+              88,
+              57
+            ],
+            [
+              91,
+              60
+            ],
+            [
+              94,
+              67
+            ],
+            [
+              94,
+              72
+            ],
+            [
+              93,
+              77
+            ],
+            [
+              89,
+              78
+            ],
+            [
+              87,
+              82
+            ],
+            [
+              86,
+              84
+            ],
+            [
+              84,
+              84
+            ],
+            [
+              83,
+              81
+            ],
+            [
+              84,
+              79
+            ],
+            [
+              79,
+              80
+            ],
+            [
+              75,
+              80
+            ],
+            [
+              73,
+              83
+            ],
+            [
+              70,
+              85
+            ],
+            [
+              68,
+              85
+            ],
+            [
+              68,
+              82
+            ],
+            [
+              66,
+              83
+            ],
+            [
+              66,
+              84
+            ],
+            [
+              65,
+              84
+            ],
+            [
+              64,
+              80
+            ],
+            [
+              62,
+              77
+            ],
+            [
+              61,
+              72
+            ],
+            [
+              59,
+              70
+            ],
+            [
+              59,
+              65
+            ]
+          ]
+        ],
+        "scene": 1
+      },
+      {
+        "latin": "rana",
+        "english": "frog",
+        "asset": "assets/I580-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I580",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/rana_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the original site contour; natural colours",
+        "x": 24,
+        "y": 56,
+        "w": 13,
+        "h": 17,
+        "outline": [
+          [
+            [
+              19,
+              49
+            ],
+            [
+              21,
+              48
+            ],
+            [
+              22,
+              49
+            ],
+            [
+              23,
+              49
+            ],
+            [
+              25,
+              51
+            ],
+            [
+              27,
+              53
+            ],
+            [
+              29,
+              56
+            ],
+            [
+              30,
+              59
+            ],
+            [
+              28,
+              61
+            ],
+            [
+              26,
+              62
+            ],
+            [
+              25,
+              64
+            ],
+            [
+              24,
+              65
+            ],
+            [
+              24,
+              64
+            ],
+            [
+              23,
+              65
+            ],
+            [
+              22,
+              64
+            ],
+            [
+              23,
+              62
+            ],
+            [
+              21,
+              61
+            ],
+            [
+              21,
+              62
+            ],
+            [
+              20,
+              64
+            ],
+            [
+              19,
+              64
+            ],
+            [
+              20,
+              62
+            ],
+            [
+              19,
+              61
+            ],
+            [
+              20,
+              59
+            ],
+            [
+              21,
+              57
+            ],
+            [
+              19,
+              55
+            ],
+            [
+              18,
+              54
+            ],
+            [
+              18,
+              53
+            ],
+            [
+              20,
+              52
+            ]
+          ]
+        ],
+        "scene": 1
+      },
+      {
+        "latin": "sciurus",
+        "english": "squirrel",
+        "asset": "assets/I581-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I581",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/sciurus_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the original site contour; natural colours",
+        "x": 87,
+        "y": 16,
+        "w": 18,
+        "h": 31,
+        "outline": [
+          [
+            [
+              79,
+              12
+            ],
+            [
+              80,
+              13
+            ],
+            [
+              81,
+              11
+            ],
+            [
+              82,
+              13
+            ],
+            [
+              85,
+              15
+            ],
+            [
+              86,
+              13
+            ],
+            [
+              86,
+              9
+            ],
+            [
+              87,
+              7
+            ],
+            [
+              89,
+              1
+            ],
+            [
+              90,
+              4
+            ],
+            [
+              92,
+              2
+            ],
+            [
+              92,
+              5
+            ],
+            [
+              95,
+              5
+            ],
+            [
+              94,
+              8
+            ],
+            [
+              96,
+              10
+            ],
+            [
+              94,
+              12
+            ],
+            [
+              96,
+              13
+            ],
+            [
+              95,
+              17
+            ],
+            [
+              96,
+              19
+            ],
+            [
+              94,
+              21
+            ],
+            [
+              95,
+              23
+            ],
+            [
+              93,
+              25
+            ],
+            [
+              91,
+              29
+            ],
+            [
+              87,
+              30
+            ],
+            [
+              83,
+              29
+            ],
+            [
+              81,
+              30
+            ],
+            [
+              80,
+              28
+            ],
+            [
+              83,
+              26
+            ],
+            [
+              82,
+              24
+            ],
+            [
+              80,
+              22
+            ],
+            [
+              81,
+              21
+            ],
+            [
+              81,
+              19
+            ],
+            [
+              79,
+              18
+            ],
+            [
+              77,
+              18
+            ],
+            [
+              78,
+              16
+            ]
+          ]
+        ],
+        "scene": 1
+      },
+      {
+        "latin": "simia",
+        "english": "monkey",
+        "asset": "assets/I582-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I582",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/simia_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the original site contour; natural colours",
+        "x": 19,
+        "y": 61,
+        "w": 23,
+        "h": 42,
+        "outline": [
+          [
+            [
+              16,
+              46
+            ],
+            [
+              17,
+              44
+            ],
+            [
+              17,
+              41
+            ],
+            [
+              18,
+              42
+            ],
+            [
+              19,
+              40
+            ],
+            [
+              21,
+              42
+            ],
+            [
+              22,
+              43
+            ],
+            [
+              24,
+              45
+            ],
+            [
+              25,
+              48
+            ],
+            [
+              24,
+              51
+            ],
+            [
+              23,
+              54
+            ],
+            [
+              24,
+              59
+            ],
+            [
+              26,
+              67
+            ],
+            [
+              29,
+              70
+            ],
+            [
+              29,
+              72
+            ],
+            [
+              27,
+              75
+            ],
+            [
+              27,
+              78
+            ],
+            [
+              25,
+              81
+            ],
+            [
+              23,
+              82
+            ],
+            [
+              23,
+              80
+            ],
+            [
+              25,
+              77
+            ],
+            [
+              23,
+              76
+            ],
+            [
+              21,
+              77
+            ],
+            [
+              21,
+              76
+            ],
+            [
+              20,
+              77
+            ],
+            [
+              19,
+              76
+            ],
+            [
+              18,
+              76
+            ],
+            [
+              17,
+              75
+            ],
+            [
+              14,
+              74
+            ],
+            [
+              12,
+              71
+            ],
+            [
+              11,
+              65
+            ],
+            [
+              12,
+              59
+            ],
+            [
+              14,
+              55
+            ],
+            [
+              15,
+              53
+            ],
+            [
+              14,
+              50
+            ],
+            [
+              15,
+              48
+            ]
+          ]
+        ],
+        "scene": 2
+      },
+      {
+        "latin": "taurus",
+        "english": "bull",
+        "asset": "assets/I583-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I583",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/taurus_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the original site contour; natural colours",
+        "x": 52,
+        "y": 32,
+        "w": 32,
+        "h": 38,
+        "outline": [
+          [
+            [
+              40,
+              14
+            ],
+            [
+              42,
+              16
+            ],
+            [
+              42,
+              19
+            ],
+            [
+              44,
+              20
+            ],
+            [
+              46,
+              19
+            ],
+            [
+              47,
+              17
+            ],
+            [
+              46,
+              14
+            ],
+            [
+              46,
+              13
+            ],
+            [
+              48,
+              14
+            ],
+            [
+              49,
+              17
+            ],
+            [
+              49,
+              20
+            ],
+            [
+              48,
+              21
+            ],
+            [
+              49,
+              22
+            ],
+            [
+              52,
+              21
+            ],
+            [
+              57,
+              23
+            ],
+            [
+              61,
+              27
+            ],
+            [
+              64,
+              33
+            ],
+            [
+              64,
+              37
+            ],
+            [
+              63,
+              42
+            ],
+            [
+              62,
+              48
+            ],
+            [
+              63,
+              50
+            ],
+            [
+              61,
+              50
+            ],
+            [
+              60,
+              49
+            ],
+            [
+              59,
+              45
+            ],
+            [
+              56,
+              45
+            ],
+            [
+              55,
+              47
+            ],
+            [
+              54,
+              50
+            ],
+            [
+              52,
+              50
+            ],
+            [
+              52,
+              48
+            ],
+            [
+              52,
+              44
+            ],
+            [
+              48,
+              42
+            ],
+            [
+              48,
+              44
+            ],
+            [
+              47,
+              47
+            ],
+            [
+              46,
+              50
+            ],
+            [
+              44,
+              50
+            ],
+            [
+              44,
+              48
+            ],
+            [
+              44,
+              41
+            ],
+            [
+              43,
+              42
+            ],
+            [
+              42,
+              48
+            ],
+            [
+              42,
+              50
+            ],
+            [
+              40,
+              50
+            ],
+            [
+              40,
+              47
+            ],
+            [
+              40,
+              41
+            ],
+            [
+              40,
+              36
+            ],
+            [
+              38,
+              31
+            ],
+            [
+              38,
+              28
+            ],
+            [
+              37,
+              23
+            ],
+            [
+              36,
+              22
+            ],
+            [
+              38,
+              21
+            ],
+            [
+              40,
+              22
+            ],
+            [
+              41,
+              21
+            ],
+            [
+              40,
+              19
+            ],
+            [
+              39,
+              16
+            ]
+          ]
+        ],
+        "scene": 2
+      },
+      {
+        "latin": "vacca",
+        "english": "cow",
+        "asset": "assets/I584-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I584",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/vacca_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the original site contour; natural colours",
+        "x": 73,
+        "y": 66,
+        "w": 49,
+        "h": 47,
+        "outline": [
+          [
+            [
+              53,
+              66
+            ],
+            [
+              52,
+              63
+            ],
+            [
+              53,
+              60
+            ],
+            [
+              54,
+              65
+            ],
+            [
+              56,
+              62
+            ],
+            [
+              59,
+              57
+            ],
+            [
+              62,
+              54
+            ],
+            [
+              67,
+              49
+            ],
+            [
+              76,
+              45
+            ],
+            [
+              81,
+              43
+            ],
+            [
+              87,
+              44
+            ],
+            [
+              90,
+              47
+            ],
+            [
+              91,
+              52
+            ],
+            [
+              91,
+              61
+            ],
+            [
+              89,
+              66
+            ],
+            [
+              92,
+              69
+            ],
+            [
+              94,
+              69
+            ],
+            [
+              98,
+              70
+            ],
+            [
+              95,
+              71
+            ],
+            [
+              92,
+              70
+            ],
+            [
+              91,
+              69
+            ],
+            [
+              90,
+              70
+            ],
+            [
+              90,
+              77
+            ],
+            [
+              86,
+              84
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              83,
+              82
+            ],
+            [
+              85,
+              80
+            ],
+            [
+              83,
+              75
+            ],
+            [
+              81,
+              74
+            ],
+            [
+              81,
+              81
+            ],
+            [
+              80,
+              85
+            ],
+            [
+              78,
+              87
+            ],
+            [
+              76,
+              86
+            ],
+            [
+              77,
+              84
+            ],
+            [
+              78,
+              79
+            ],
+            [
+              77,
+              75
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              72,
+              81
+            ],
+            [
+              70,
+              88
+            ],
+            [
+              69,
+              89
+            ],
+            [
+              67,
+              88
+            ],
+            [
+              68,
+              86
+            ],
+            [
+              68,
+              80
+            ],
+            [
+              68,
+              76
+            ],
+            [
+              67,
+              76
+            ],
+            [
+              66,
+              80
+            ],
+            [
+              65,
+              85
+            ],
+            [
+              62,
+              86
+            ],
+            [
+              61,
+              85
+            ],
+            [
+              62,
+              82
+            ],
+            [
+              63,
+              75
+            ],
+            [
+              62,
+              75
+            ],
+            [
+              61,
+              80
+            ],
+            [
+              57,
+              85
+            ],
+            [
+              53,
+              87
+            ],
+            [
+              51,
+              86
+            ],
+            [
+              51,
+              82
+            ],
+            [
+              53,
+              80
+            ],
+            [
+              53,
+              76
+            ],
+            [
+              51,
+              73
+            ],
+            [
+              49,
+              72
+            ],
+            [
+              50,
+              71
+            ],
+            [
+              54,
+              72
+            ],
+            [
+              55,
+              70
+            ]
+          ]
+        ],
+        "scene": 2
+      },
+      {
+        "latin": "vespa",
+        "english": "wasp",
+        "asset": "assets/I585-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I585",
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/vespa_orig.jpg?w=800",
+        "coloring": "AI-assisted colouring of the original site contour; natural colours",
+        "x": 22,
+        "y": 17,
+        "w": 12,
+        "h": 20,
+        "outline": [
+          [
+            [
+              17,
+              17
+            ],
+            [
+              17,
+              15
+            ],
+            [
+              18,
+              14
+            ],
+            [
+              19,
+              15
+            ],
+            [
+              19,
+              13
+            ],
+            [
+              21,
+              9
+            ],
+            [
+              23,
+              8
+            ],
+            [
+              23,
+              12
+            ],
+            [
+              22,
+              15
+            ],
+            [
+              24,
+              14
+            ],
+            [
+              27,
+              12
+            ],
+            [
+              27,
+              13
+            ],
+            [
+              25,
+              16
+            ],
+            [
+              23,
+              17
+            ],
+            [
+              25,
+              17
+            ],
+            [
+              27,
+              19
+            ],
+            [
+              25,
+              20
+            ],
+            [
+              23,
+              20
+            ],
+            [
+              22,
+              22
+            ],
+            [
+              21,
+              23
+            ],
+            [
+              20,
+              23
+            ],
+            [
+              20,
+              25
+            ],
+            [
+              19,
+              24
+            ],
+            [
+              20,
+              22
+            ],
+            [
+              19,
+              21
+            ],
+            [
+              18,
+              23
+            ],
+            [
+              18,
+              24
+            ],
+            [
+              17,
+              24
+            ],
+            [
+              18,
+              21
+            ],
+            [
+              18,
+              20
+            ],
+            [
+              17,
+              21
+            ],
+            [
+              16,
+              20
+            ],
+            [
+              17,
+              18
+            ]
+          ]
+        ],
+        "scene": 2
+      }
+    ],
+    "scenes": [
+      {
+        "title": "Kitchen garden",
+        "asset": "assets/garden-1-simple.webp"
+      },
+      {
+        "title": "Orchard",
+        "asset": "assets/garden-2-simple.webp"
+      },
+      {
+        "title": "Field edge",
+        "asset": "assets/garden-3-simple.webp"
+      }
+    ]
+  },
+  {
+    "id": "family",
+    "title": "Meet the household",
+    "place": "The family home",
+    "description": "Pandora braids Lepidina’s hair. Flavius reads, Candidus cooks, Corinthus teaches Iulius and Flavia, and Rufus plays.",
+    "kind": "scene",
+    "items": [
+      {
+        "id": "flavius",
+        "latin": "Flavius",
+        "english": "father · pater",
+        "name": "Flavius",
+        "asset": "assets/flavius-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "family",
+        "x": 9,
+        "y": 39,
+        "w": 19,
+        "h": 50,
+        "outline": [
+          [
+            [
+              8,
+              14
+            ],
+            [
+              10,
+              14
+            ],
+            [
+              12,
+              16
+            ],
+            [
+              12,
+              18
+            ],
+            [
+              11,
+              20
+            ],
+            [
+              10,
+              22
+            ],
+            [
+              12,
+              24
+            ],
+            [
+              13,
+              25
+            ],
+            [
+              18,
+              26
+            ],
+            [
+              18,
+              28
+            ],
+            [
+              16,
+              31
+            ],
+            [
+              16,
+              34
+            ],
+            [
+              14,
+              35
+            ],
+            [
+              14,
+              38
+            ],
+            [
+              14,
+              46
+            ],
+            [
+              12.7,
+              47
+            ],
+            [
+              12.5,
+              52
+            ],
+            [
+              12,
+              57
+            ],
+            [
+              12,
+              61
+            ],
+            [
+              11,
+              63
+            ],
+            [
+              9,
+              63
+            ],
+            [
+              8.5,
+              60
+            ],
+            [
+              8.5,
+              56
+            ],
+            [
+              7,
+              53
+            ],
+            [
+              6.8,
+              60
+            ],
+            [
+              5.5,
+              63
+            ],
+            [
+              4,
+              62
+            ],
+            [
+              4.2,
+              59
+            ],
+            [
+              4.8,
+              55
+            ],
+            [
+              4.5,
+              49
+            ],
+            [
+              3,
+              48
+            ],
+            [
+              2,
+              46
+            ],
+            [
+              0.5,
+              47
+            ],
+            [
+              0,
+              43
+            ],
+            [
+              0,
+              34
+            ],
+            [
+              1,
+              26
+            ],
+            [
+              4,
+              23
+            ],
+            [
+              7,
+              23
+            ],
+            [
+              8,
+              21
+            ],
+            [
+              7.5,
+              18
+            ]
+          ]
+        ],
+        "layer": 10
+      },
+      {
+        "id": "lepidina",
+        "latin": "Lepidina",
+        "english": "mother · mater",
+        "name": "Lepidina",
+        "asset": "assets/lepidina-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "family",
+        "x": 15.5,
+        "y": 59,
+        "w": 23,
+        "h": 52,
+        "outline": [
+          [
+            [
+              15,
+              34
+            ],
+            [
+              18,
+              34
+            ],
+            [
+              20.5,
+              36
+            ],
+            [
+              22,
+              39
+            ],
+            [
+              21,
+              43
+            ],
+            [
+              20,
+              45
+            ],
+            [
+              22,
+              47
+            ],
+            [
+              24,
+              50
+            ],
+            [
+              25,
+              54
+            ],
+            [
+              25,
+              59
+            ],
+            [
+              24,
+              63
+            ],
+            [
+              24,
+              69
+            ],
+            [
+              22,
+              71
+            ],
+            [
+              19,
+              73
+            ],
+            [
+              19,
+              76
+            ],
+            [
+              20,
+              78
+            ],
+            [
+              20,
+              81
+            ],
+            [
+              18,
+              83
+            ],
+            [
+              15,
+              83.5
+            ],
+            [
+              11,
+              83
+            ],
+            [
+              7,
+              82
+            ],
+            [
+              5,
+              81
+            ],
+            [
+              6,
+              78
+            ],
+            [
+              6,
+              75
+            ],
+            [
+              7,
+              68
+            ],
+            [
+              8,
+              62
+            ],
+            [
+              9,
+              60
+            ],
+            [
+              11,
+              59
+            ],
+            [
+              11,
+              53
+            ],
+            [
+              12,
+              50
+            ],
+            [
+              14,
+              47
+            ],
+            [
+              15,
+              46
+            ],
+            [
+              14.5,
+              44
+            ],
+            [
+              13,
+              42
+            ],
+            [
+              13,
+              39
+            ],
+            [
+              14,
+              36
+            ]
+          ]
+        ],
+        "occlusion": [
+          [
+            [
+              20.8,
+              37.2
+            ],
+            [
+              22.2,
+              37.2
+            ],
+            [
+              23.4,
+              38.3
+            ],
+            [
+              23.4,
+              39.6
+            ],
+            [
+              22.3,
+              40.4
+            ],
+            [
+              20.9,
+              39.5
+            ]
+          ],
+          [
+            [
+              20.9,
+              40.2
+            ],
+            [
+              22.5,
+              40.1
+            ],
+            [
+              23,
+              41.8
+            ],
+            [
+              22.3,
+              43
+            ],
+            [
+              21.5,
+              42.5
+            ],
+            [
+              21,
+              41.8
+            ]
+          ]
+        ],
+        "layer": 30
+      },
+      {
+        "id": "flavia",
+        "latin": "Flavia",
+        "english": "daughter · filia",
+        "name": "Flavia",
+        "asset": "assets/flavia-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "family",
+        "x": 62,
+        "y": 58,
+        "w": 14,
+        "h": 42,
+        "outline": [
+          [
+            [
+              59,
+              37.5
+            ],
+            [
+              62,
+              37.5
+            ],
+            [
+              64,
+              39
+            ],
+            [
+              65,
+              42
+            ],
+            [
+              64.5,
+              44
+            ],
+            [
+              64,
+              46
+            ],
+            [
+              66,
+              48
+            ],
+            [
+              67.5,
+              52
+            ],
+            [
+              68,
+              56
+            ],
+            [
+              67,
+              59
+            ],
+            [
+              66,
+              64
+            ],
+            [
+              66,
+              69
+            ],
+            [
+              67,
+              74
+            ],
+            [
+              66,
+              77
+            ],
+            [
+              65,
+              78
+            ],
+            [
+              63,
+              77
+            ],
+            [
+              62,
+              76
+            ],
+            [
+              60,
+              77
+            ],
+            [
+              58,
+              76
+            ],
+            [
+              58,
+              73
+            ],
+            [
+              58,
+              66
+            ],
+            [
+              57,
+              61
+            ],
+            [
+              57,
+              57
+            ],
+            [
+              57,
+              54
+            ],
+            [
+              57.5,
+              50
+            ],
+            [
+              58.5,
+              47
+            ],
+            [
+              59,
+              45
+            ],
+            [
+              58,
+              43
+            ],
+            [
+              57.5,
+              40
+            ]
+          ]
+        ],
+        "occlusion": [
+          [
+            [
+              34,
+              56
+            ],
+            [
+              63,
+              56
+            ],
+            [
+              63,
+              62
+            ],
+            [
+              34,
+              62
+            ]
+          ],
+          [
+            [
+              35,
+              61
+            ],
+            [
+              39,
+              61
+            ],
+            [
+              39,
+              82
+            ],
+            [
+              35,
+              82
+            ]
+          ],
+          [
+            [
+              57,
+              61
+            ],
+            [
+              62,
+              61
+            ],
+            [
+              62,
+              82
+            ],
+            [
+              57,
+              82
+            ]
+          ]
+        ],
+        "layer": 25
+      },
+      {
+        "id": "iulius",
+        "latin": "Iulius",
+        "english": "elder son · filius",
+        "name": "Iulius",
+        "asset": "assets/iulius-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "family",
+        "x": 38,
+        "y": 58,
+        "w": 15,
+        "h": 44,
+        "outline": [
+          [
+            [
+              38,
+              37
+            ],
+            [
+              40.5,
+              37
+            ],
+            [
+              42,
+              39
+            ],
+            [
+              42,
+              42
+            ],
+            [
+              41,
+              43
+            ],
+            [
+              41,
+              45
+            ],
+            [
+              42,
+              47
+            ],
+            [
+              43,
+              49
+            ],
+            [
+              44,
+              52
+            ],
+            [
+              42,
+              54
+            ],
+            [
+              42,
+              56
+            ],
+            [
+              43,
+              60
+            ],
+            [
+              43,
+              66
+            ],
+            [
+              42,
+              69
+            ],
+            [
+              41,
+              72
+            ],
+            [
+              41,
+              75
+            ],
+            [
+              42,
+              77
+            ],
+            [
+              40.5,
+              78
+            ],
+            [
+              39.5,
+              77
+            ],
+            [
+              39,
+              75
+            ],
+            [
+              38,
+              77
+            ],
+            [
+              36,
+              77
+            ],
+            [
+              35.8,
+              75
+            ],
+            [
+              36.5,
+              73
+            ],
+            [
+              37,
+              70
+            ],
+            [
+              35,
+              68
+            ],
+            [
+              32,
+              66
+            ],
+            [
+              31.5,
+              63
+            ],
+            [
+              32,
+              59
+            ],
+            [
+              31.5,
+              56
+            ],
+            [
+              31,
+              54
+            ],
+            [
+              31.5,
+              52
+            ],
+            [
+              32,
+              49
+            ],
+            [
+              34,
+              47
+            ],
+            [
+              36,
+              46
+            ],
+            [
+              36,
+              43
+            ],
+            [
+              36,
+              40
+            ]
+          ]
+        ],
+        "occlusion": [
+          [
+            [
+              34,
+              56
+            ],
+            [
+              63,
+              56
+            ],
+            [
+              63,
+              62
+            ],
+            [
+              34,
+              62
+            ]
+          ],
+          [
+            [
+              35,
+              61
+            ],
+            [
+              39,
+              61
+            ],
+            [
+              39,
+              82
+            ],
+            [
+              35,
+              82
+            ]
+          ],
+          [
+            [
+              57,
+              61
+            ],
+            [
+              62,
+              61
+            ],
+            [
+              62,
+              82
+            ],
+            [
+              57,
+              82
+            ]
+          ]
+        ],
+        "layer": 25
+      },
+      {
+        "id": "rufus",
+        "latin": "Rufus",
+        "english": "younger son · filius",
+        "name": "Rufus",
+        "asset": "assets/rufus-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "family",
+        "x": 74,
+        "y": 73,
+        "w": 20,
+        "h": 28,
+        "outline": [
+          [
+            [
+              74,
+              60
+            ],
+            [
+              76,
+              60
+            ],
+            [
+              78,
+              62
+            ],
+            [
+              79,
+              64
+            ],
+            [
+              79,
+              67
+            ],
+            [
+              78,
+              68.5
+            ],
+            [
+              80,
+              71
+            ],
+            [
+              81,
+              74
+            ],
+            [
+              82,
+              75
+            ],
+            [
+              82,
+              78
+            ],
+            [
+              81,
+              79
+            ],
+            [
+              80,
+              77
+            ],
+            [
+              79,
+              76
+            ],
+            [
+              79,
+              79
+            ],
+            [
+              79,
+              82
+            ],
+            [
+              77,
+              84
+            ],
+            [
+              75,
+              85
+            ],
+            [
+              72,
+              84
+            ],
+            [
+              70,
+              84
+            ],
+            [
+              69,
+              83
+            ],
+            [
+              67,
+              84
+            ],
+            [
+              65,
+              83
+            ],
+            [
+              65,
+              81
+            ],
+            [
+              67,
+              80
+            ],
+            [
+              69,
+              79
+            ],
+            [
+              70,
+              77
+            ],
+            [
+              69.5,
+              75
+            ],
+            [
+              70,
+              72
+            ],
+            [
+              71,
+              69
+            ],
+            [
+              73,
+              68
+            ],
+            [
+              73,
+              66
+            ],
+            [
+              72.5,
+              64
+            ]
+          ]
+        ],
+        "layer": 30
+      },
+      {
+        "id": "corinthus",
+        "latin": "Corinthus",
+        "english": "educated Greek enslaved man",
+        "name": "Corinthus",
+        "asset": "assets/corinthus-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "household",
+        "x": 50,
+        "y": 52,
+        "w": 17,
+        "h": 47,
+        "outline": [
+          [
+            [
+              49,
+              30.5
+            ],
+            [
+              52,
+              30.5
+            ],
+            [
+              54,
+              32
+            ],
+            [
+              54.5,
+              34
+            ],
+            [
+              53.5,
+              36
+            ],
+            [
+              53,
+              39
+            ],
+            [
+              52,
+              40
+            ],
+            [
+              51.5,
+              42
+            ],
+            [
+              54,
+              44
+            ],
+            [
+              56,
+              46
+            ],
+            [
+              57,
+              49
+            ],
+            [
+              57,
+              52
+            ],
+            [
+              54,
+              54
+            ],
+            [
+              53,
+              55
+            ],
+            [
+              52,
+              55
+            ],
+            [
+              51,
+              52.5
+            ],
+            [
+              48,
+              52
+            ],
+            [
+              47,
+              53
+            ],
+            [
+              45,
+              52
+            ],
+            [
+              44,
+              50
+            ],
+            [
+              43,
+              48
+            ],
+            [
+              42,
+              45
+            ],
+            [
+              44,
+              42
+            ],
+            [
+              47,
+              41
+            ],
+            [
+              48,
+              39
+            ],
+            [
+              48,
+              35
+            ],
+            [
+              48.5,
+              32
+            ]
+          ],
+          [
+            [
+              45,
+              61
+            ],
+            [
+              52,
+              61
+            ],
+            [
+              53,
+              64
+            ],
+            [
+              53,
+              68
+            ],
+            [
+              53.5,
+              72
+            ],
+            [
+              54.5,
+              74
+            ],
+            [
+              53,
+              75
+            ],
+            [
+              51,
+              74
+            ],
+            [
+              50,
+              72
+            ],
+            [
+              49,
+              68
+            ],
+            [
+              48,
+              72
+            ],
+            [
+              47,
+              75
+            ],
+            [
+              45,
+              75
+            ],
+            [
+              44,
+              74
+            ],
+            [
+              45,
+              72
+            ],
+            [
+              46,
+              68
+            ],
+            [
+              45.5,
+              64
+            ]
+          ]
+        ],
+        "occlusion": [
+          [
+            [
+              34,
+              56
+            ],
+            [
+              63,
+              56
+            ],
+            [
+              63,
+              62
+            ],
+            [
+              34,
+              62
+            ]
+          ],
+          [
+            [
+              35,
+              61
+            ],
+            [
+              39,
+              61
+            ],
+            [
+              39,
+              82
+            ],
+            [
+              35,
+              82
+            ]
+          ],
+          [
+            [
+              57,
+              61
+            ],
+            [
+              62,
+              61
+            ],
+            [
+              62,
+              82
+            ],
+            [
+              57,
+              82
+            ]
+          ]
+        ],
+        "layer": 10,
+        "vocabularyLatin": "servus",
+        "vocabularyEnglish": "enslaved man",
+        "vocabularyPlural": "servi"
+      },
+      {
+        "id": "candidus",
+        "latin": "Candidus",
+        "english": "skilled Celtic enslaved man",
+        "name": "Candidus",
+        "asset": "assets/candidus-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "household",
+        "x": 89,
+        "y": 46,
+        "w": 20,
+        "h": 55,
+        "outline": [
+          [
+            [
+              88,
+              19
+            ],
+            [
+              90,
+              20
+            ],
+            [
+              92,
+              21
+            ],
+            [
+              93,
+              23
+            ],
+            [
+              92.5,
+              26
+            ],
+            [
+              91.5,
+              28
+            ],
+            [
+              93,
+              30
+            ],
+            [
+              95,
+              33
+            ],
+            [
+              95.5,
+              36
+            ],
+            [
+              97,
+              39
+            ],
+            [
+              97,
+              42
+            ],
+            [
+              95,
+              42
+            ],
+            [
+              93,
+              39
+            ],
+            [
+              91,
+              38
+            ],
+            [
+              90,
+              38
+            ],
+            [
+              91,
+              42
+            ],
+            [
+              93,
+              44
+            ],
+            [
+              93,
+              47
+            ],
+            [
+              91,
+              50
+            ],
+            [
+              88,
+              51
+            ],
+            [
+              86,
+              50
+            ],
+            [
+              85,
+              54
+            ],
+            [
+              84.5,
+              58
+            ],
+            [
+              84.5,
+              63
+            ],
+            [
+              83,
+              68
+            ],
+            [
+              84.5,
+              71
+            ],
+            [
+              84.5,
+              72
+            ],
+            [
+              82,
+              73
+            ],
+            [
+              81,
+              72
+            ],
+            [
+              81,
+              69
+            ],
+            [
+              80,
+              65
+            ],
+            [
+              80.5,
+              62
+            ],
+            [
+              82,
+              58
+            ],
+            [
+              81.5,
+              56
+            ],
+            [
+              81.5,
+              50
+            ],
+            [
+              81,
+              45
+            ],
+            [
+              81,
+              41
+            ],
+            [
+              80,
+              38
+            ],
+            [
+              81,
+              35
+            ],
+            [
+              82.5,
+              30
+            ],
+            [
+              86,
+              29
+            ],
+            [
+              87.5,
+              28
+            ],
+            [
+              87,
+              25
+            ],
+            [
+              86.5,
+              23
+            ],
+            [
+              87.5,
+              21
+            ]
+          ]
+        ],
+        "occlusion": [
+          [
+            [
+              91,
+              41
+            ],
+            [
+              96,
+              41
+            ],
+            [
+              97,
+              47
+            ],
+            [
+              96,
+              51
+            ],
+            [
+              89,
+              53
+            ],
+            [
+              84,
+              53
+            ],
+            [
+              84,
+              57
+            ],
+            [
+              95,
+              58
+            ],
+            [
+              100,
+              57
+            ],
+            [
+              100,
+              52
+            ],
+            [
+              100,
+              41
+            ]
+          ]
+        ],
+        "layer": 10,
+        "vocabularyLatin": "servus",
+        "vocabularyEnglish": "enslaved man",
+        "vocabularyPlural": "servi"
+      },
+      {
+        "id": "pandora",
+        "latin": "Pandora",
+        "english": "Lepidina’s enslaved woman",
+        "name": "Pandora",
+        "asset": "assets/pandora-book.webp",
+        "source": "https://www.scribd.com/document/409113961/Minimus-Secundus-pdf",
+        "imageSource": "User-supplied Minimus Secundus, Introduction, PDF page 5; original coloured Helen Forte artwork",
+        "group": "household",
+        "x": 25.5,
+        "y": 53,
+        "w": 12,
+        "h": 55,
+        "outline": [
+          [
+            [
+              25,
+              26
+            ],
+            [
+              27,
+              26
+            ],
+            [
+              28.5,
+              28
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              28,
+              33
+            ],
+            [
+              27.5,
+              34.5
+            ],
+            [
+              29,
+              36
+            ],
+            [
+              30,
+              38
+            ],
+            [
+              30,
+              41
+            ],
+            [
+              29,
+              43
+            ],
+            [
+              28.5,
+              45
+            ],
+            [
+              29,
+              49
+            ],
+            [
+              29,
+              57
+            ],
+            [
+              29.8,
+              64
+            ],
+            [
+              30,
+              77
+            ],
+            [
+              28,
+              77.5
+            ],
+            [
+              27,
+              79
+            ],
+            [
+              25,
+              79
+            ],
+            [
+              23,
+              78
+            ],
+            [
+              23,
+              75
+            ],
+            [
+              22.5,
+              66
+            ],
+            [
+              22,
+              56
+            ],
+            [
+              23,
+              48
+            ],
+            [
+              22,
+              45
+            ],
+            [
+              20.5,
+              43
+            ],
+            [
+              20.8,
+              41
+            ],
+            [
+              22,
+              40
+            ],
+            [
+              21,
+              39
+            ],
+            [
+              20.8,
+              37
+            ],
+            [
+              22,
+              37
+            ],
+            [
+              24,
+              39
+            ],
+            [
+              25,
+              38
+            ],
+            [
+              25,
+              35
+            ],
+            [
+              24,
+              32
+            ],
+            [
+              23.5,
+              30
+            ],
+            [
+              24,
+              28
+            ]
+          ]
+        ],
+        "occludedBy": [
+          "lepidina"
+        ],
+        "frontDetails": [
+          [
+            [
+              20.8,
+              37.2
+            ],
+            [
+              22.2,
+              37.2
+            ],
+            [
+              23.4,
+              38.3
+            ],
+            [
+              23.4,
+              39.6
+            ],
+            [
+              22.3,
+              40.4
+            ],
+            [
+              20.9,
+              39.5
+            ]
+          ],
+          [
+            [
+              20.9,
+              40.2
+            ],
+            [
+              22.5,
+              40.1
+            ],
+            [
+              23,
+              41.8
+            ],
+            [
+              22.3,
+              43
+            ],
+            [
+              21.5,
+              42.5
+            ],
+            [
+              21,
+              41.8
+            ]
+          ]
+        ],
+        "layer": 12,
+        "vocabularyLatin": "ancilla",
+        "vocabularyEnglish": "enslaved woman",
+        "vocabularyPlural": "servi"
+      },
+      {
+        "latin": "mus",
+        "english": "mouse",
+        "asset": "assets/minimus-book.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I577",
+        "imageSource": "Minimus: Starting out in Latin, title page (uploaded book)",
+        "name": "Minimus",
+        "group": "animal friend",
+        "x": 34.5,
+        "y": 77,
+        "w": 15,
+        "h": 22,
+        "outline": [
+          [
+            [
+              35,
+              67
+            ],
+            [
+              36.5,
+              66.5
+            ],
+            [
+              38,
+              68
+            ],
+            [
+              38,
+              70
+            ],
+            [
+              39,
+              70
+            ],
+            [
+              40,
+              69
+            ],
+            [
+              40.3,
+              70
+            ],
+            [
+              39.5,
+              72
+            ],
+            [
+              38,
+              72.5
+            ],
+            [
+              38.5,
+              75
+            ],
+            [
+              38,
+              78
+            ],
+            [
+              38.5,
+              79.5
+            ],
+            [
+              38,
+              82
+            ],
+            [
+              37,
+              84
+            ],
+            [
+              36,
+              84.5
+            ],
+            [
+              35,
+              85
+            ],
+            [
+              34.5,
+              86
+            ],
+            [
+              33.5,
+              85.5
+            ],
+            [
+              33,
+              84
+            ],
+            [
+              32,
+              84
+            ],
+            [
+              31,
+              82
+            ],
+            [
+              31,
+              79
+            ],
+            [
+              32,
+              75
+            ],
+            [
+              33,
+              72
+            ],
+            [
+              32.5,
+              71
+            ],
+            [
+              31,
+              71
+            ],
+            [
+              30.5,
+              69
+            ],
+            [
+              31,
+              68
+            ],
+            [
+              32,
+              67
+            ],
+            [
+              33,
+              68
+            ]
+          ],
+          [
+            [
+              31,
+              82
+            ],
+            [
+              29.5,
+              82
+            ],
+            [
+              29,
+              79
+            ],
+            [
+              29.5,
+              76
+            ],
+            [
+              30.5,
+              73
+            ],
+            [
+              30.8,
+              71
+            ],
+            [
+              30,
+              71
+            ],
+            [
+              29,
+              72
+            ],
+            [
+              28,
+              72
+            ],
+            [
+              28,
+              73
+            ],
+            [
+              29,
+              73
+            ],
+            [
+              29.5,
+              72
+            ],
+            [
+              30,
+              72
+            ],
+            [
+              30,
+              74
+            ],
+            [
+              29,
+              77
+            ],
+            [
+              28.5,
+              80
+            ],
+            [
+              29,
+              82
+            ],
+            [
+              30,
+              83
+            ],
+            [
+              32,
+              83
+            ]
+          ]
+        ],
+        "layer": 35
+      },
+      {
+        "latin": "feles",
+        "english": "cat",
+        "asset": "assets/vibrissa-book.webp",
+        "source": "https://www.minimuslatin.co.uk/minimus-in-practice-resources",
+        "id": "I578",
+        "imageSource": "Minimus Secundus, Introduction (uploaded book)",
+        "name": "Vibrissa",
+        "group": "animal friend",
+        "x": 88,
+        "y": 89,
+        "w": 20,
+        "h": 15,
+        "outline": [
+          [
+            [
+              81,
+              86
+            ],
+            [
+              82,
+              84
+            ],
+            [
+              83,
+              85.5
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              85,
+              86
+            ],
+            [
+              88,
+              83
+            ],
+            [
+              92,
+              83
+            ],
+            [
+              94,
+              85
+            ],
+            [
+              95,
+              88
+            ],
+            [
+              94.5,
+              91
+            ],
+            [
+              93,
+              93
+            ],
+            [
+              91,
+              94
+            ],
+            [
+              88,
+              94.5
+            ],
+            [
+              86,
+              94
+            ],
+            [
+              85,
+              94
+            ],
+            [
+              84,
+              94.5
+            ],
+            [
+              83,
+              94
+            ],
+            [
+              82,
+              93
+            ],
+            [
+              79.5,
+              93
+            ],
+            [
+              79,
+              91
+            ],
+            [
+              79.5,
+              89
+            ],
+            [
+              80.5,
+              88
+            ]
+          ]
+        ],
+        "layer": 40
+      }
+    ],
+    "sceneAsset": "assets/family-courtyard-one-braid.webp"
+  },
+  {
+    "id": "soldier",
+    "title": "A Roman soldier",
+    "place": "The fort",
+    "description": "A soldier is guarding the fort. Look closely at what he wears and carries.",
+    "kind": "scene",
+    "items": [
+      {
+        "latin": "galea",
+        "english": "helmet",
+        "asset": "assets/I594.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards",
+        "id": "I594",
+        "x": 51,
+        "y": 17,
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/hf-soldier-front_orig.png?w=800",
+        "w": 10,
+        "h": 15,
+        "outline": [
+          [
+            [
+              47.5,
+              10
+            ],
+            [
+              52.5,
+              10
+            ],
+            [
+              54.5,
+              13
+            ],
+            [
+              54.5,
+              16
+            ],
+            [
+              53,
+              17
+            ],
+            [
+              53.8,
+              21.5
+            ],
+            [
+              55.8,
+              23.5
+            ],
+            [
+              53.2,
+              24
+            ],
+            [
+              52.5,
+              19
+            ],
+            [
+              51,
+              17
+            ],
+            [
+              49.5,
+              20
+            ],
+            [
+              49,
+              23.5
+            ],
+            [
+              46.5,
+              24
+            ],
+            [
+              47.5,
+              21
+            ],
+            [
+              47.8,
+              16
+            ],
+            [
+              47.4,
+              15
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "lorica",
+        "english": "breastplate",
+        "asset": "assets/I594.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards",
+        "id": "I594",
+        "x": 52,
+        "y": 37,
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/hf-soldier-front_orig.png?w=800",
+        "w": 15,
+        "h": 22,
+        "outline": [
+          [
+            [
+              48,
+              25
+            ],
+            [
+              50.5,
+              28
+            ],
+            [
+              52.5,
+              28
+            ],
+            [
+              55.5,
+              25
+            ],
+            [
+              57.5,
+              29
+            ],
+            [
+              58,
+              32
+            ],
+            [
+              56.5,
+              34
+            ],
+            [
+              57,
+              39
+            ],
+            [
+              57.5,
+              42
+            ],
+            [
+              57.2,
+              46
+            ],
+            [
+              57.5,
+              48
+            ],
+            [
+              54,
+              48.5
+            ],
+            [
+              48,
+              48.5
+            ],
+            [
+              45,
+              47.5
+            ],
+            [
+              45.8,
+              43
+            ],
+            [
+              46,
+              40
+            ],
+            [
+              46.5,
+              34
+            ],
+            [
+              44,
+              32
+            ],
+            [
+              44.5,
+              29
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "fascia",
+        "english": "scarf",
+        "asset": "assets/I594.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards",
+        "id": "I594",
+        "x": 51.5,
+        "y": 25.5,
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/hf-soldier-front_orig.png?w=800",
+        "w": 5,
+        "h": 5,
+        "outline": [
+          [
+            [
+              49.5,
+              23.7
+            ],
+            [
+              51.5,
+              25
+            ],
+            [
+              53,
+              24
+            ],
+            [
+              53.5,
+              25
+            ],
+            [
+              52.5,
+              26.5
+            ],
+            [
+              52.7,
+              28
+            ],
+            [
+              52,
+              28
+            ],
+            [
+              51.3,
+              27
+            ],
+            [
+              50.8,
+              27.8
+            ],
+            [
+              50.2,
+              27
+            ],
+            [
+              50.6,
+              25.8
+            ],
+            [
+              49.5,
+              24.7
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "caligae",
+        "english": "boots",
+        "asset": "assets/I594.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards",
+        "id": "I594",
+        "x": 52,
+        "y": 92,
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/hf-soldier-front_orig.png?w=800",
+        "w": 16,
+        "h": 10,
+        "outline": [
+          [
+            [
+              48,
+              86.5
+            ],
+            [
+              50,
+              86.5
+            ],
+            [
+              50,
+              90
+            ],
+            [
+              49.5,
+              92
+            ],
+            [
+              50.5,
+              93
+            ],
+            [
+              50,
+              94
+            ],
+            [
+              48,
+              94.5
+            ],
+            [
+              46,
+              95
+            ],
+            [
+              45,
+              94
+            ],
+            [
+              46,
+              92.5
+            ],
+            [
+              47.5,
+              91
+            ],
+            [
+              47.5,
+              90
+            ]
+          ],
+          [
+            [
+              53.5,
+              86.5
+            ],
+            [
+              55,
+              86.5
+            ],
+            [
+              55.5,
+              90.5
+            ],
+            [
+              56.5,
+              92
+            ],
+            [
+              58,
+              93
+            ],
+            [
+              59,
+              94
+            ],
+            [
+              58,
+              95
+            ],
+            [
+              55,
+              94.5
+            ],
+            [
+              53,
+              93
+            ],
+            [
+              52.8,
+              92
+            ],
+            [
+              53.5,
+              90
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "pilum",
+        "english": "javelin",
+        "asset": "assets/I594.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards",
+        "id": "I594",
+        "x": 36.5,
+        "y": 46,
+        "imageSource": "https://cdn1.artcltn.com/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/hf-soldier-front_orig.png?w=800",
+        "w": 4,
+        "h": 90,
+        "outline": [
+          [
+            [
+              36,
+              1.7
+            ],
+            [
+              36.5,
+              3
+            ],
+            [
+              37,
+              6.5
+            ],
+            [
+              36.5,
+              7
+            ],
+            [
+              36.9,
+              39
+            ],
+            [
+              36.5,
+              44
+            ],
+            [
+              37.3,
+              93
+            ],
+            [
+              36.1,
+              93
+            ],
+            [
+              35.8,
+              44
+            ],
+            [
+              36.2,
+              39
+            ],
+            [
+              35.7,
+              7
+            ],
+            [
+              35,
+              6.5
+            ]
+          ]
+        ],
+        "occlusion": [
+          [
+            [
+              35,
+              40
+            ],
+            [
+              37,
+              40
+            ],
+            [
+              38,
+              41
+            ],
+            [
+              38,
+              43
+            ],
+            [
+              36,
+              44
+            ],
+            [
+              35,
+              43
+            ]
+          ]
+        ]
+      },
+      {
+        "id": "equipment-extra-0",
+        "latin": "gladius",
+        "english": "sword",
+        "x": 10,
+        "y": 64,
+        "w": 20,
+        "h": 6,
+        "asset": "assets/fort-equipped.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards"
+      },
+      {
+        "id": "equipment-extra-1",
+        "latin": "pugio",
+        "english": "dagger",
+        "x": 56,
+        "y": 53,
+        "w": 5,
+        "h": 20,
+        "asset": "assets/fort-equipped.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards"
+      },
+      {
+        "id": "equipment-extra-2",
+        "latin": "scutum",
+        "english": "shield",
+        "x": 91,
+        "y": 67,
+        "w": 16,
+        "h": 46,
+        "asset": "assets/fort-equipped.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-7-flashcards"
+      }
+    ],
+    "sceneAsset": "assets/soldier-acutus.webp"
+  },
+  {
+    "id": "body",
+    "title": "Health & the body",
+    "place": "The sickroom",
+    "description": "Visit the doctor. Find body parts, medicine and a bandage in the picture.",
+    "kind": "scene",
+    "items": [
+      {
+        "latin": "auris",
+        "english": "ear",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 34.7,
+        "y": 19.5,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 3,
+        "h": 4
+      },
+      {
+        "latin": "oculi",
+        "english": "eyes",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 38.400000000000006,
+        "y": 14.7,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 3.5,
+        "h": 4
+      },
+      {
+        "latin": "collum",
+        "english": "neck",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 36.2,
+        "y": 26,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 5,
+        "h": 6
+      },
+      {
+        "latin": "nasus",
+        "english": "nose",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 40.0,
+        "y": 16.5,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 3.5,
+        "h": 3
+      },
+      {
+        "latin": "dorsum",
+        "english": "back",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 30.499999999999996,
+        "y": 29.7,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 4,
+        "h": 5
+      },
+      {
+        "latin": "dentes",
+        "english": "teeth",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 38.5,
+        "y": 20.9,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 4,
+        "h": 4
+      },
+      {
+        "latin": "manus",
+        "english": "hand",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 33.8,
+        "y": 44.2,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 5.5,
+        "h": 7
+      },
+      {
+        "latin": "digitus",
+        "english": "finger",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 47.7,
+        "y": 27,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 4,
+        "h": 6
+      },
+      {
+        "latin": "pedes",
+        "english": "feet",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 39.2,
+        "y": 84.7,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 17,
+        "h": 9
+      },
+      {
+        "latin": "venter",
+        "english": "belly",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 37.7,
+        "y": 48,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 8,
+        "h": 10
+      },
+      {
+        "id": "medicus",
+        "latin": "medicus",
+        "english": "doctor",
+        "asset": "assets/sickroom-scene.webp",
+        "source": "https://www.scribd.com/document/399542036/Barbara-Bell-Minimus-Conhecendo-o-Latim-pdf",
+        "imageSource": "New scene based on Minimus Book 1 Chapter 12; printed pages 71 and 74",
+        "x": 64.8,
+        "y": 44,
+        "w": 20,
+        "h": 72
+      },
+      {
+        "id": "medicamentum",
+        "latin": "medicamentum",
+        "english": "medicine",
+        "asset": "assets/sickroom-scene.webp",
+        "source": "https://www.scribd.com/document/399542036/Barbara-Bell-Minimus-Conhecendo-o-Latim-pdf",
+        "imageSource": "New scene based on Minimus Book 1 Chapter 12; printed pages 71 and 74",
+        "x": 52.3,
+        "y": 28.5,
+        "w": 5,
+        "h": 11
+      },
+      {
+        "id": "plastrum",
+        "latin": "plastrum",
+        "english": "plaster",
+        "asset": "assets/sickroom-scene.webp",
+        "source": "https://www.scribd.com/document/399542036/Barbara-Bell-Minimus-Conhecendo-o-Latim-pdf",
+        "imageSource": "New scene based on Minimus Book 1 Chapter 12; printed pages 71 and 74",
+        "x": 90.5,
+        "y": 66,
+        "w": 10,
+        "h": 8
+      }
+    ],
+    "sceneAsset": "assets/sickroom-minimus.webp"
+  },
+  {
+    "id": "baths",
+    "title": "At the baths",
+    "place": "Roman baths",
+    "description": "Minimus is getting ready for the baths. Discover the six things he brings.",
+    "kind": "scene",
+    "items": [
+      {
+        "latin": "spongia",
+        "english": "sponge-stick",
+        "asset": "assets/I603.webp",
+        "source": "https://www.minimuslatin.co.uk/baths-vocabulary",
+        "id": "I603",
+        "x": 12,
+        "y": 40,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_7.png?w=1080",
+        "w": 12,
+        "h": 28,
+        "outline": [
+          [
+            [
+              12,
+              27
+            ],
+            [
+              15,
+              28
+            ],
+            [
+              17,
+              32
+            ],
+            [
+              17,
+              37
+            ],
+            [
+              15,
+              40
+            ],
+            [
+              13.5,
+              41
+            ],
+            [
+              14.5,
+              53
+            ],
+            [
+              13,
+              54
+            ],
+            [
+              12,
+              43
+            ],
+            [
+              11,
+              42
+            ],
+            [
+              8,
+              41
+            ],
+            [
+              6.8,
+              38
+            ],
+            [
+              6.8,
+              33
+            ],
+            [
+              9,
+              29
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "oleum",
+        "english": "oil",
+        "asset": "assets/I603.webp",
+        "source": "https://www.minimuslatin.co.uk/baths-vocabulary",
+        "id": "I603",
+        "x": 66,
+        "y": 38,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_7.png?w=1080",
+        "w": 9,
+        "h": 19,
+        "outline": [
+          [
+            [
+              65.8,
+              28.8
+            ],
+            [
+              67.5,
+              29.2
+            ],
+            [
+              68,
+              31
+            ],
+            [
+              69,
+              31.5
+            ],
+            [
+              70,
+              33
+            ],
+            [
+              69.5,
+              35
+            ],
+            [
+              68.5,
+              36
+            ],
+            [
+              69,
+              40
+            ],
+            [
+              68,
+              44
+            ],
+            [
+              67,
+              46
+            ],
+            [
+              64,
+              46
+            ],
+            [
+              62.5,
+              44
+            ],
+            [
+              62.5,
+              40
+            ],
+            [
+              63,
+              37
+            ],
+            [
+              64,
+              34
+            ],
+            [
+              64.8,
+              33
+            ],
+            [
+              65,
+              31
+            ]
+          ]
+        ],
+        "occlusion": [
+          [
+            [
+              62,
+              40.5
+            ],
+            [
+              63,
+              40
+            ],
+            [
+              64,
+              40.2
+            ],
+            [
+              65,
+              41
+            ],
+            [
+              64.5,
+              42
+            ],
+            [
+              63,
+              42.4
+            ],
+            [
+              62.5,
+              43.4
+            ],
+            [
+              61,
+              44
+            ],
+            [
+              60,
+              42.5
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "fascinum",
+        "english": "amulet",
+        "asset": "assets/I603.webp",
+        "source": "https://www.minimuslatin.co.uk/baths-vocabulary",
+        "id": "I603",
+        "x": 51,
+        "y": 44,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_7.png?w=1080",
+        "w": 4,
+        "h": 7,
+        "outline": [
+          [
+            [
+              50.8,
+              42
+            ],
+            [
+              51.8,
+              42
+            ],
+            [
+              52.4,
+              43
+            ],
+            [
+              52.5,
+              44.5
+            ],
+            [
+              51.8,
+              45.8
+            ],
+            [
+              50.5,
+              45.8
+            ],
+            [
+              50,
+              44.8
+            ],
+            [
+              50,
+              43.2
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "strigil",
+        "english": "scraper",
+        "asset": "assets/I603.webp",
+        "source": "https://www.minimuslatin.co.uk/baths-vocabulary",
+        "id": "I603",
+        "x": 78,
+        "y": 61,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_7.png?w=1080",
+        "w": 26,
+        "h": 13,
+        "outline": [
+          [
+            [
+              66,
+              62.5
+            ],
+            [
+              67,
+              59
+            ],
+            [
+              69,
+              57
+            ],
+            [
+              72,
+              57
+            ],
+            [
+              75,
+              58.5
+            ],
+            [
+              80,
+              61
+            ],
+            [
+              83,
+              63
+            ],
+            [
+              86,
+              63
+            ],
+            [
+              88,
+              61.5
+            ],
+            [
+              89.5,
+              57
+            ],
+            [
+              90.5,
+              57
+            ],
+            [
+              90,
+              60.5
+            ],
+            [
+              89,
+              64
+            ],
+            [
+              87,
+              65
+            ],
+            [
+              82,
+              65
+            ],
+            [
+              77,
+              63
+            ],
+            [
+              73,
+              60.5
+            ],
+            [
+              70,
+              59.5
+            ],
+            [
+              68,
+              60.8
+            ],
+            [
+              67,
+              63
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "sudarium",
+        "english": "towel",
+        "asset": "assets/I603.webp",
+        "source": "https://www.minimuslatin.co.uk/baths-vocabulary",
+        "id": "I603",
+        "x": 42,
+        "y": 60,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_7.png?w=1080",
+        "w": 13,
+        "h": 33,
+        "outline": [
+          [
+            [
+              39,
+              44.8
+            ],
+            [
+              42,
+              45
+            ],
+            [
+              44,
+              47
+            ],
+            [
+              45,
+              51
+            ],
+            [
+              46,
+              63
+            ],
+            [
+              47,
+              72
+            ],
+            [
+              47,
+              76
+            ],
+            [
+              46,
+              77
+            ],
+            [
+              45,
+              76
+            ],
+            [
+              44,
+              77
+            ],
+            [
+              42,
+              76
+            ],
+            [
+              41,
+              74
+            ],
+            [
+              40,
+              73
+            ],
+            [
+              39,
+              68
+            ],
+            [
+              38,
+              64
+            ],
+            [
+              37,
+              58
+            ],
+            [
+              37.5,
+              53
+            ]
+          ]
+        ]
+      },
+      {
+        "latin": "sculponeae",
+        "english": "wooden clogs",
+        "asset": "assets/I603.webp",
+        "source": "https://www.minimuslatin.co.uk/baths-vocabulary",
+        "id": "I603",
+        "x": 49,
+        "y": 84,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_7.png?w=1080",
+        "w": 22,
+        "h": 11,
+        "outline": [
+          [
+            [
+              42,
+              79
+            ],
+            [
+              44.5,
+              81
+            ],
+            [
+              45,
+              84
+            ],
+            [
+              44,
+              86
+            ],
+            [
+              42,
+              89
+            ],
+            [
+              40,
+              89
+            ],
+            [
+              38.5,
+              87
+            ],
+            [
+              38.5,
+              84
+            ],
+            [
+              39,
+              82
+            ]
+          ],
+          [
+            [
+              50,
+              81
+            ],
+            [
+              53,
+              80
+            ],
+            [
+              56,
+              81
+            ],
+            [
+              58,
+              83
+            ],
+            [
+              59,
+              85
+            ],
+            [
+              58,
+              86.5
+            ],
+            [
+              55,
+              86.7
+            ],
+            [
+              51,
+              85.5
+            ],
+            [
+              49.5,
+              84.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "sceneAsset": "assets/baths-simple.webp"
+  },
+  {
+    "id": "body-close",
+    "title": "A closer look at the patient",
+    "place": "The sickroom · Look closer",
+    "description": "Find the Latin body words on the patient.",
+    "kind": "scene",
+    "sceneAsset": "assets/sickroom-minimus.webp",
+    "crop": [
+      0.255,
+      0.08,
+      0.25,
+      0.82
+    ],
+    "items": [
+      {
+        "latin": "auris",
+        "english": "ear",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 36.80000000000001,
+        "y": 14.02439024390244,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 12.0,
+        "h": 4.878048780487805
+      },
+      {
+        "latin": "oculi",
+        "english": "eyes",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 51.60000000000002,
+        "y": 8.170731707317072,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 14.0,
+        "h": 4.878048780487805
+      },
+      {
+        "latin": "collum",
+        "english": "neck",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 42.80000000000002,
+        "y": 21.951219512195124,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 20.0,
+        "h": 7.317073170731708
+      },
+      {
+        "latin": "nasus",
+        "english": "nose",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 58.00000000000001,
+        "y": 10.365853658536587,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 14.0,
+        "h": 3.658536585365854
+      },
+      {
+        "latin": "dorsum",
+        "english": "back",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 19.99999999999997,
+        "y": 26.463414634146336,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 16.0,
+        "h": 6.097560975609756
+      },
+      {
+        "latin": "dentes",
+        "english": "teeth",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 52.0,
+        "y": 15.731707317073171,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 16.0,
+        "h": 4.878048780487805
+      },
+      {
+        "latin": "manus",
+        "english": "hand",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 33.19999999999999,
+        "y": 44.146341463414636,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 22.0,
+        "h": 8.536585365853659
+      },
+      {
+        "latin": "digitus",
+        "english": "finger",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 88.80000000000001,
+        "y": 23.170731707317074,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 16.0,
+        "h": 7.317073170731708
+      },
+      {
+        "latin": "pedes",
+        "english": "feet",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 54.800000000000004,
+        "y": 93.53658536585367,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 68.0,
+        "h": 10.975609756097562
+      },
+      {
+        "latin": "venter",
+        "english": "belly",
+        "asset": "assets/I602-colored.webp",
+        "source": "https://www.minimuslatin.co.uk/parts-of-the-body-voc",
+        "id": "I602",
+        "x": 48.8,
+        "y": 48.78048780487805,
+        "imageSource": "https://www.minimuslatin.co.uk/storage/12794/a1911204-af5a-4235-8076-55938ad068f8/screenshot_3.png?w=1080",
+        "coloring": "AI-assisted colouring of the original diagram, with original arrows retained",
+        "w": 32.0,
+        "h": 12.195121951219512
+      }
+    ]
+  },
+  {
+    "id": "granary",
+    "title": "A delivery at the granary",
+    "place": "The granary",
+    "description": "Find the store, grain and goods as a delivery arrives.",
+    "kind": "scene",
+    "sceneAsset": "assets/granary-obesus.webp",
+    "items": [
+      {
+        "id": "granary-0",
+        "latin": "horreum",
+        "english": "granary",
+        "asset": "assets/granary.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "x": 34,
+        "y": 24,
+        "w": 62,
+        "h": 42
+      },
+      {
+        "id": "granary-1",
+        "latin": "frumentum",
+        "english": "grain",
+        "asset": "assets/granary.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "x": 10,
+        "y": 73,
+        "w": 19,
+        "h": 14
+      },
+      {
+        "id": "granary-2",
+        "latin": "amphora",
+        "english": "amphora",
+        "asset": "assets/granary.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "x": 39,
+        "y": 70,
+        "w": 14,
+        "h": 33
+      },
+      {
+        "id": "granary-3",
+        "latin": "olla",
+        "english": "pot",
+        "asset": "assets/granary.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "x": 27.5,
+        "y": 54.5,
+        "w": 12,
+        "h": 13
+      },
+      {
+        "id": "granary-4",
+        "latin": "plaustrum",
+        "english": "cart",
+        "asset": "assets/granary.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-11-flashcards",
+        "x": 81,
+        "y": 57,
+        "w": 34,
+        "h": 34
+      },
+      {
+        "id": "granary-5",
+        "latin": "lignum",
+        "english": "wood / plank",
+        "asset": "assets/granary.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-1-flashcards",
+        "x": 85,
+        "y": 84,
+        "w": 28,
+        "h": 25
+      }
+    ]
+  },
+  {
+    "id": "lesson",
+    "title": "A lesson with Corinthus",
+    "place": "Inside the family home",
+    "description": "Join Corinthus, Iulius and Flavia. Find the teacher, letters and writing tools.",
+    "kind": "scene",
+    "sceneAsset": "assets/lesson-scribo.webp",
+    "items": [
+      {
+        "id": "lesson-0",
+        "latin": "grammaticus",
+        "english": "teacher",
+        "asset": "assets/lesson.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-8-flashcards",
+        "x": 29,
+        "y": 41,
+        "w": 29,
+        "h": 55
+      },
+      {
+        "id": "lesson-1",
+        "latin": "cera",
+        "english": "wax tablet",
+        "asset": "assets/lesson.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-6-flashcards",
+        "x": 51,
+        "y": 59,
+        "w": 22,
+        "h": 14
+      },
+      {
+        "id": "lesson-2",
+        "latin": "stilus",
+        "english": "stylus",
+        "asset": "assets/lesson.webp",
+        "source": "https://www.minimuslatin.co.uk/chapter-6-flashcards",
+        "x": 69,
+        "y": 65.5,
+        "w": 14,
+        "h": 4
+      },
+      {
+        "id": "lesson-3",
+        "latin": "litterae",
+        "english": "letters",
+        "asset": "assets/lesson.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-8-flashcards",
+        "x": 56,
+        "y": 19,
+        "w": 17,
+        "h": 13
+      }
+    ]
+  },
+  {
+    "id": "workshops",
+    "title": "A day in the workshops",
+    "place": "The workshops",
+    "description": "Meet the blacksmith and potter. Find their work and the things they make.",
+    "kind": "scene",
+    "sceneAsset": "assets/workshops-minimus.webp",
+    "items": [
+      {
+        "id": "workshops-0",
+        "latin": "ferrarius",
+        "english": "blacksmith",
+        "x": 29,
+        "y": 44,
+        "w": 17,
+        "h": 45,
+        "asset": "assets/workshops.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards"
+      },
+      {
+        "id": "workshops-1",
+        "latin": "figulus",
+        "english": "potter",
+        "x": 77,
+        "y": 47,
+        "w": 16,
+        "h": 36,
+        "asset": "assets/workshops.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards"
+      },
+      {
+        "id": "workshops-2",
+        "latin": "fornax",
+        "english": "forge",
+        "x": 13,
+        "y": 36,
+        "w": 16,
+        "h": 24,
+        "asset": "assets/workshops.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards"
+      },
+      {
+        "id": "workshops-3",
+        "latin": "amphora",
+        "english": "amphora",
+        "x": 87.5,
+        "y": 85.5,
+        "w": 10,
+        "h": 24,
+        "asset": "assets/workshops.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards"
+      },
+      {
+        "id": "workshops-4",
+        "latin": "olla",
+        "english": "pot",
+        "x": 59,
+        "y": 33,
+        "w": 7,
+        "h": 6,
+        "asset": "assets/workshops.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards"
+      },
+      {
+        "id": "workshops-5",
+        "latin": "patera",
+        "english": "bowl",
+        "x": 92,
+        "y": 65,
+        "w": 15,
+        "h": 9,
+        "asset": "assets/workshops.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards"
+      },
+      {
+        "id": "workshops-6",
+        "latin": "clavi",
+        "english": "nails",
+        "x": 15,
+        "y": 68,
+        "w": 16,
+        "h": 6,
+        "asset": "assets/workshops.webp",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards"
+      }
+    ]
+  },
+  {
+    "id": "home-objects",
+    "title": "Things at home",
+    "place": "The family home",
+    "description": "Find everyday objects. This round is separate from the household.",
+    "kind": "scene",
+    "sceneAsset": "assets/home-ignavus.webp",
+    "items": [
+      {
+        "id": "home-objects-0",
+        "latin": "lectus",
+        "english": "bed",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-6-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 17,
+        "y": 34,
+        "w": 30,
+        "h": 27
+      },
+      {
+        "id": "home-objects-1",
+        "latin": "lucerna",
+        "english": "lamp",
+        "source": "https://www.minimuslatin.co.uk/chapter-11-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 47,
+        "y": 22,
+        "w": 9,
+        "h": 7
+      },
+      {
+        "id": "home-objects-2",
+        "latin": "epistula",
+        "english": "letter",
+        "source": "https://www.minimuslatin.co.uk/chapter-11-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 13,
+        "y": 69,
+        "w": 24,
+        "h": 17
+      },
+      {
+        "id": "home-objects-3",
+        "latin": "cera",
+        "english": "wax tablet",
+        "source": "https://www.minimuslatin.co.uk/chapter-6-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 51,
+        "y": 46,
+        "w": 22,
+        "h": 13
+      },
+      {
+        "id": "home-objects-4",
+        "latin": "stilus",
+        "english": "stylus",
+        "source": "https://www.minimuslatin.co.uk/chapter-6-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 69,
+        "y": 51,
+        "w": 14,
+        "h": 5
+      },
+      {
+        "id": "home-objects-5",
+        "latin": "olla",
+        "english": "pot",
+        "source": "https://www.minimuslatin.co.uk/chapter-11-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 93,
+        "y": 14,
+        "w": 13,
+        "h": 13
+      },
+      {
+        "id": "home-objects-6",
+        "latin": "anulus",
+        "english": "ring",
+        "source": "https://www.minimuslatin.co.uk/chapter-10-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 91,
+        "y": 72,
+        "w": 8,
+        "h": 8
+      },
+      {
+        "id": "home-objects-7",
+        "latin": "pila",
+        "english": "ball",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-6-flashcards",
+        "asset": "assets/home-minimal.webp",
+        "x": 40,
+        "y": 82,
+        "w": 12,
+        "h": 16
+      }
+    ]
+  },
+  {
+    "id": "army",
+    "title": "People in the army",
+    "place": "The fort",
+    "description": "Find each military role. Equipment has its own separate round.",
+    "kind": "scene",
+    "sceneAsset": "assets/army-legionary-left.webp",
+    "items": [
+      {
+        "id": "army-0",
+        "latin": "signifer",
+        "english": "standard-bearer",
+        "source": "https://www.minimuslatin.co.uk/chapter-9-flashcards",
+        "asset": "assets/army-minimal.webp",
+        "x": 11,
+        "y": 57,
+        "w": 16,
+        "h": 69
+      },
+      {
+        "id": "army-1",
+        "latin": "cornicen",
+        "english": "horn-player",
+        "source": "https://www.minimuslatin.co.uk/chapter-9-flashcards",
+        "asset": "assets/army-minimal.webp",
+        "x": 35,
+        "y": 58,
+        "w": 18,
+        "h": 67
+      },
+      {
+        "id": "army-2",
+        "latin": "centurio",
+        "english": "centurion",
+        "source": "https://www.minimuslatin.co.uk/chapter-9-flashcards",
+        "asset": "assets/army-minimal.webp",
+        "x": 60,
+        "y": 54,
+        "w": 21,
+        "h": 76
+      },
+      {
+        "id": "army-3",
+        "latin": "vexillifer",
+        "english": "flag-bearer",
+        "source": "https://www.minimuslatin.co.uk/chapter-9-flashcards",
+        "asset": "assets/army-minimal.webp",
+        "x": 83,
+        "y": 59,
+        "w": 17,
+        "h": 66
+      }
+    ]
+  },
+  {
+    "id": "baths-rooms",
+    "title": "Inside the Roman baths",
+    "place": "Roman baths",
+    "description": "Find the different rooms, pool, furnace and exercise yard.",
+    "kind": "scene",
+    "sceneAsset": "assets/baths-rooms-minimus.webp",
+    "items": [
+      {
+        "id": "baths-rooms-0",
+        "latin": "apodyterium",
+        "english": "changing room",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 20,
+        "y": 33,
+        "w": 20,
+        "h": 34
+      },
+      {
+        "id": "baths-rooms-1",
+        "latin": "tepidarium",
+        "english": "warm room",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 41,
+        "y": 30,
+        "w": 19,
+        "h": 33
+      },
+      {
+        "id": "baths-rooms-2",
+        "latin": "caldarium",
+        "english": "hot room",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 61,
+        "y": 29,
+        "w": 19,
+        "h": 32
+      },
+      {
+        "id": "baths-rooms-3",
+        "latin": "frigidarium",
+        "english": "cold room",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 81,
+        "y": 29,
+        "w": 14,
+        "h": 24
+      },
+      {
+        "id": "baths-rooms-4",
+        "latin": "piscina",
+        "english": "swimming pool",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 81,
+        "y": 48,
+        "w": 15,
+        "h": 12
+      },
+      {
+        "id": "baths-rooms-5",
+        "latin": "latrina",
+        "english": "toilet",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 95,
+        "y": 42,
+        "w": 7,
+        "h": 23
+      },
+      {
+        "id": "baths-rooms-6",
+        "latin": "fornax",
+        "english": "furnace",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 48,
+        "y": 66,
+        "w": 13,
+        "h": 19
+      },
+      {
+        "id": "baths-rooms-7",
+        "latin": "palaestra",
+        "english": "exercise yard",
+        "source": "https://www.minimuslatin.co.uk/chapter-8-flashcards",
+        "asset": "assets/baths-minimal.webp",
+        "x": 16,
+        "y": 87,
+        "w": 29,
+        "h": 24
+      }
+    ]
+  },
+  {
+    "id": "construction",
+    "title": "Building the fort",
+    "place": "The fort",
+    "description": "Look for the people, tools and materials in the building yard.",
+    "kind": "scene",
+    "sceneAsset": "assets/construction-minimus.webp",
+    "items": [
+      {
+        "id": "construction-0",
+        "latin": "agrimensor",
+        "english": "surveyor",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-11-flashcards",
+        "asset": "assets/construction-minimal.webp",
+        "x": 13,
+        "y": 57,
+        "w": 15,
+        "h": 46
+      },
+      {
+        "id": "construction-1",
+        "latin": "groma",
+        "english": "surveying instrument",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-11-flashcards",
+        "asset": "assets/construction-minimal.webp",
+        "x": 21,
+        "y": 53,
+        "w": 14,
+        "h": 49
+      },
+      {
+        "id": "construction-2",
+        "latin": "operarius",
+        "english": "worker",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-11-flashcards",
+        "asset": "assets/construction-minimal.webp",
+        "x": 46,
+        "y": 59,
+        "w": 19,
+        "h": 32
+      },
+      {
+        "id": "construction-3",
+        "latin": "polyspaston",
+        "english": "lifting crane",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-11-flashcards",
+        "asset": "assets/construction-minimal.webp",
+        "x": 82,
+        "y": 31,
+        "w": 32,
+        "h": 56
+      },
+      {
+        "id": "construction-4",
+        "latin": "porta",
+        "english": "gate",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-11-flashcards",
+        "asset": "assets/construction-minimal.webp",
+        "x": 46,
+        "y": 29,
+        "w": 12,
+        "h": 27
+      },
+      {
+        "id": "construction-5",
+        "latin": "lignum",
+        "english": "wood / log",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-1-flashcards",
+        "asset": "assets/construction-minimal.webp",
+        "x": 87,
+        "y": 79,
+        "w": 25,
+        "h": 24
+      }
+    ]
+  },
+  {
+    "id": "forest",
+    "title": "At the forest edge",
+    "place": "The woodland",
+    "description": "Find the woodland animals, log and flint stones.",
+    "kind": "scene",
+    "sceneAsset": "assets/forest-ambulo.webp",
+    "items": [
+      {
+        "id": "forest-0",
+        "latin": "aper",
+        "english": "boar",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-9-flashcards",
+        "asset": "assets/forest.webp",
+        "x": 18,
+        "y": 42,
+        "w": 28,
+        "h": 35
+      },
+      {
+        "id": "forest-1",
+        "latin": "canis",
+        "english": "dog",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-9-flashcards",
+        "asset": "assets/forest.webp",
+        "x": 52,
+        "y": 51,
+        "w": 26,
+        "h": 29
+      },
+      {
+        "id": "forest-2",
+        "latin": "lepus",
+        "english": "hare",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-9-flashcards",
+        "asset": "assets/forest.webp",
+        "x": 88,
+        "y": 45,
+        "w": 18,
+        "h": 37
+      },
+      {
+        "id": "forest-3",
+        "latin": "lignum",
+        "english": "log",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-1-flashcards",
+        "asset": "assets/forest.webp",
+        "x": 35,
+        "y": 77,
+        "w": 45,
+        "h": 22
+      },
+      {
+        "id": "forest-4",
+        "latin": "silices",
+        "english": "flints",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-1-flashcards",
+        "asset": "assets/forest.webp",
+        "x": 81,
+        "y": 87,
+        "w": 19,
+        "h": 10
+      }
+    ]
+  },
+  {
+    "id": "meadow",
+    "title": "Animals in the meadow",
+    "place": "The garden & woodland",
+    "description": "Meet three more animals from the Book 2 glossary.",
+    "kind": "scene",
+    "sceneAsset": "assets/meadow-minimus.webp",
+    "items": [
+      {
+        "id": "meadow-0",
+        "latin": "equus",
+        "english": "horse",
+        "source": "https://www.minimuslatin.co.uk/vocabulary-testing-book-2",
+        "asset": "assets/meadow.webp",
+        "x": 20,
+        "y": 42,
+        "w": 35,
+        "h": 50,
+        "sourceNote": "Minimus Secundus glossary; chapter 9 link is not the source of these three entries."
+      },
+      {
+        "id": "meadow-1",
+        "latin": "cervus",
+        "english": "deer",
+        "source": "https://www.minimuslatin.co.uk/vocabulary-testing-book-2",
+        "asset": "assets/meadow.webp",
+        "x": 53,
+        "y": 36,
+        "w": 27,
+        "h": 53,
+        "sourceNote": "Minimus Secundus glossary; chapter 9 link is not the source of these three entries."
+      },
+      {
+        "id": "meadow-2",
+        "latin": "capra",
+        "english": "female goat",
+        "source": "https://www.minimuslatin.co.uk/vocabulary-testing-book-2",
+        "asset": "assets/meadow.webp",
+        "x": 85,
+        "y": 54,
+        "w": 24,
+        "h": 34,
+        "sourceNote": "Minimus Secundus glossary; chapter 9 link is not the source of these three entries."
+      }
+    ]
+  },
+  {
+    "id": "quay",
+    "title": "A visit to the river quay",
+    "place": "A river journey · Eboracum",
+    "description": "Find the ship, sailor and goods. This scene follows the river-trade themes of Book 2.",
+    "kind": "scene",
+    "sceneAsset": "assets/quay-video.webp",
+    "items": [
+      {
+        "id": "quay-0",
+        "latin": "navis",
+        "english": "ship",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "asset": "assets/quay-minimal.webp",
+        "x": 22,
+        "y": 42,
+        "w": 40,
+        "h": 44
+      },
+      {
+        "id": "quay-1",
+        "latin": "nauta",
+        "english": "sailor",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-8-flashcards",
+        "asset": "assets/quay-minimal.webp",
+        "x": 54,
+        "y": 46,
+        "w": 12,
+        "h": 39
+      },
+      {
+        "id": "quay-2",
+        "latin": "amphora",
+        "english": "amphora",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "asset": "assets/quay-minimal.webp",
+        "x": 95,
+        "y": 54,
+        "w": 8,
+        "h": 17
+      },
+      {
+        "id": "quay-3",
+        "latin": "horreum",
+        "english": "warehouse / granary",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "asset": "assets/quay-minimal.webp",
+        "x": 84,
+        "y": 25,
+        "w": 29,
+        "h": 43
+      },
+      {
+        "id": "quay-4",
+        "latin": "flumen",
+        "english": "river",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-4-flashcards",
+        "asset": "assets/quay-minimal.webp",
+        "x": 14,
+        "y": 83,
+        "w": 23,
+        "h": 23
+      },
+      {
+        "id": "quay-5",
+        "latin": "portus",
+        "english": "harbour",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-8-flashcards",
+        "asset": "assets/quay-minimal.webp",
+        "x": 85,
+        "y": 66,
+        "w": 21,
+        "h": 11
+      }
+    ]
+  },
+  {
+    "id": "dressing",
+    "title": "Hair and jewellery",
+    "place": "The family home",
+    "description": "Pandora is arranging Lepidina’s hair. Find the hairdresser and the things in the room.",
+    "kind": "scene",
+    "sceneAsset": "assets/dressing-no-mouse.webp",
+    "items": [
+      {
+        "id": "dressing-0",
+        "latin": "ornatrix",
+        "english": "hairdresser",
+        "source": "https://www.minimuslatin.co.uk/m2-chapter-10-flashcards",
+        "asset": "assets/dressing-minimal.webp",
+        "x": 35,
+        "y": 49,
+        "w": 15,
+        "h": 85
+      },
+      {
+        "id": "dressing-1",
+        "latin": "capilli",
+        "english": "hair",
+        "source": "https://www.minimuslatin.co.uk/chapter-10-flashcards",
+        "asset": "assets/dressing-minimal.webp",
+        "x": 22,
+        "y": 27,
+        "w": 12,
+        "h": 15
+      },
+      {
+        "id": "dressing-2",
+        "latin": "capillamentum",
+        "english": "wig",
+        "source": "https://www.minimuslatin.co.uk/chapter-10-flashcards",
+        "asset": "assets/dressing-minimal.webp",
+        "x": 92,
+        "y": 40,
+        "w": 15,
+        "h": 29
+      },
+      {
+        "id": "dressing-3",
+        "latin": "anulus",
+        "english": "ring",
+        "source": "https://www.minimuslatin.co.uk/chapter-10-flashcards",
+        "asset": "assets/dressing-minimal.webp",
+        "x": 66,
+        "y": 62,
+        "w": 6,
+        "h": 6
+      },
+      {
+        "id": "dressing-4",
+        "latin": "gemmae",
+        "english": "jewels",
+        "source": "https://www.minimuslatin.co.uk/chapter-10-flashcards",
+        "asset": "assets/dressing-minimal.webp",
+        "x": 78,
+        "y": 66,
+        "w": 9,
+        "h": 8
+      },
+      {
+        "id": "dressing-5",
+        "latin": "unguentum",
+        "english": "cosmetic ointment",
+        "source": "https://www.minimuslatin.co.uk/chapter-10-flashcards",
+        "asset": "assets/dressing-minimal.webp",
+        "x": 90,
+        "y": 67,
+        "w": 9,
+        "h": 9
+      }
+    ]
+  }
+]
